@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Second config</title>
+    <link>http://hugo-wercker.ig.nore.me/</link>
+    <description>Recent content on Second config</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 11 Jan 2015 13:42:38 +1100</lastBuildDate>
+    <atom:link href="http://hugo-wercker.ig.nore.me/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>about</title>
+      <link>http://hugo-wercker.ig.nore.me/about/</link>
+      <pubDate>Sun, 11 Jan 2015 13:42:38 +1100</pubDate>
+      
+      <guid>http://hugo-wercker.ig.nore.me/about/</guid>
+      <description>&lt;p&gt;This site is for illustration purposes only, in order to demonstrate using Wercker for automated deployments of Hugo.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
